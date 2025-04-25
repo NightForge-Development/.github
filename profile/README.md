@@ -33,8 +33,8 @@ We believe in:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| `node-filemanager` | A Node.js Application that hosts a simple web interface for file management. | Node.js, Express |
-| `web-based-bot-client` | A Discord Client, able to send messages via a Bot token, and discords own endpoints. | Node.js, discord.js |
+| [NodeFileMan](https://github.com/NightForge-Development/node-filemanager) | A Node.js Application that hosts a simple web interface for file management. | Node.js, Express |
+| [Bot Client](https://github.com/NightForge-Development/web-based-bot-client) | A Discord Client, able to send messages via a Bot token, and discords own endpoints. | Node.js, discord.js |
 
 ---
 
