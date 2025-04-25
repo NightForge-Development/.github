@@ -59,9 +59,8 @@ We welcome contributors and collaborators! Here's how you can get started:
 
 ---
 
-## 📫 Contact & Links
+## 📫 Contact Us
 
-- 💬 [GitHub Discussions](https://github.com/NightForge-Development/discussions)
 - 📧 Email: [nightforge@elcipse.space](mailto:nightforge@elcipse.space)
 
 ---
